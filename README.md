@@ -1,16 +1,19 @@
-### Hi there 👋
+##  Welcome to JinZe's Github 
 
-<!--
-**1791209985/1791209985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 你陪了我多少年，花开花落，一路上起起跌跌。
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![image](https://user-images.githubusercontent.com/84832795/212478754-bb2b6468-c2ef-486b-ae8b-a79a0faf715d.png)
+<br/>
+
+
+### Github提交次数<br/>
+#### 或许是不知梦的缘故，流离之人追逐幻影。<br/>
+![GithubStats](https://github-readme-stats.vercel.app/api?username=1791209985&show_icons=true&theme=dark&count_private=true)
+
+<!-- github使用语言 -->
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=17912099850&theme=dark&layout=compact) -->
+
+### 下一站：上岸
+<br/>
