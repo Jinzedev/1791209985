@@ -12,10 +12,12 @@
 
 ### Github提交次数<br/>
 #### 或许是不知梦的缘故，流离之人追逐幻影。<br/>
-![GithubStats](https://github-readme-stats.vercel.app/api?username=Jinzedev&show_icons=true&theme=dark&count_private=true)
+<p align="center"> 
+  <img src="https://github-readme-stats-sand-three-38.vercel.app/api?username=Jinzedev&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
+</p>
 
-<!-- github使用语言 -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinzedev&theme=dark&layout=compact) 
-
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jinzedev&theme=tokyo-night" width="600"/>
+</p>
 ### 下一站：上岸
 <br/>
