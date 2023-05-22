@@ -13,7 +13,7 @@
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=Jinzedev&show_icons=true&theme=dark&count_private=true)
 
 <!-- github使用语言 -->
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=17912099850&theme=dark&layout=compact) -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=17912099850&theme=dark&layout=compact) 
 
 ### 下一站：上岸
 <br/>
