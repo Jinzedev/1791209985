@@ -1,5 +1,5 @@
 <h2 align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=3000&pause=1000&color=8F7FD3DE&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+Welecom+to+Jinze+!" alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=3000&pause=1000&color=8F7FD3DE&center=true&vCenter=true&repeat=false&width=435&lines=Hello!+Welecom+to+Jinze+!" alt="Typing SVG" />
 </h2>
 
 <h3 align="center">
@@ -11,7 +11,7 @@
 <br/>
 
 <h3 align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Righteous&size=32&duration=3000&pause=1000&color=8F7FD3DE&center=true&vCenter=true&repeat=false&width=700&lines=或许是不知梦的缘故，流离之人追逐幻影。" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com? font=Righteous&size=32&duration=3000&pause=1000&color=8F7FD3DE&center=true&vCenter=true&repeat=false&width=700&lines=或许是不知梦的缘故，流离之人追逐幻影。" alt="Typing SVG" />
  </h3>
  
 <p align="center"> 
