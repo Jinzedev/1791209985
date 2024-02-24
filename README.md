@@ -11,17 +11,13 @@
 <br/>
 
 ## Programming Languages I use
-![java](https://img.shields.io/badge/-Java-%235c5c5c)
-![C#](https://img.shields.io/badge/-C%23-%238c37db)
-![???](https://img.shields.io/badge/-未知-%239ac8f6)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs)
 ## Operating System
 
-![Windows](https://img.shields.io/badge/-windows-red?style=for-the-badge&logo=microsoft&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-green?style=for-the-badge&logo=linux&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=windows,linux)
 ## IDE
- ![IDEA](https://img.shields.io/badge/-IDEA-%23ea63a7)
-![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-%239ac8f6)
+![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,vscode)
+
 
 
 
